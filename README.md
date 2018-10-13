@@ -26,6 +26,6 @@ The project can be found on:
 
 **GitHub** EmmSquared/Seahorse
 
-**LinkedIn**
+**LinkedIn** www.linkedin.com/groups/13613770/
 
-**Web** [seahorse.000webhost.com](seahorse.000webhost.com) (temporary)
+**Web** [seahorse.000webhost.com](https://seahorse.000webhost.com) (temporary)
