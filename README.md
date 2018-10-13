@@ -28,4 +28,4 @@ The project can be found on:
 
 **LinkedIn** www.linkedin.com/groups/13613770/
 
-**Web** [seahorse.000webhost.com](https://seahorse.000webhost.com) (temporary)
+**Web**  (coming soon)
